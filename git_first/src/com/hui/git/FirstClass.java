@@ -15,5 +15,6 @@ public class FirstClass {
     }
     public void test2(){
         int i = 1;
+        int b = 2;
     }
 }
