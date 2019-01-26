@@ -13,4 +13,7 @@ public class FirstClass {
     public void test1(){
         System.out.println(111);
     }
+    public void test2(){
+        int i = 1;
+    }
 }
